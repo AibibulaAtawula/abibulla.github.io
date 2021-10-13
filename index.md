@@ -1,11 +1,8 @@
 #### Education([Edit](https://github.com/AibibulaAtawula/abibulla.github.io/edit/gh-pages/index.md))
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
 
 | SEP 2021-ongoing | Ph.D.candidate in Computer Application technology | University of Chinese Academy of Chinese, China |
-| SEP 2019-SEP 2021 | Ph.D.candidate in Computer Application technology | University of Chinese Academy of Chinese, China |
+| SEP 2019-SEP 2021 | M.Ec. in Computer Application  | University of Chinese Academy of Chinese, China |
+| Sept. 2015 -- Jul. 2019 | B.Ec. in computer science and technology  | Liaoning Technical University, China |
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
